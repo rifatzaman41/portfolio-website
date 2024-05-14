@@ -1,0 +1,37 @@
+.high{
+    background-color: #C0C0C0; 
+    border: 2px solid #A9A9A9; 
+    
+}
+.low{
+    background-color: #C0C0C0; 
+    border: 2px solid #A9A9A9; 
+
+}
+.rifat{
+    background-color: #C0C0C0; 
+    border: 2px solid #A9A9A9; 
+   
+}
+.farhan{
+    background-color: #C0C0C0; 
+    border: 2px solid #A9A9A9;    
+}
+.input.box{
+    padding: 15px;
+    width:50%;
+    margin-top:10px ;
+}
+.message{
+    width: 40%;
+    height: 100px;
+    margin-top: 15px;
+}
+.submit-btn{
+    width: 25%;
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
